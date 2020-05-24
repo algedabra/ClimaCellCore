@@ -4,7 +4,7 @@ Some unofficial code to run a request against the ClimaCell API (http://api.clim
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on the process for submitting pull requests to me.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## License
 
