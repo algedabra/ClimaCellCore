@@ -21,10 +21,10 @@ namespace ClimaCellCore
 
             if (forecast?.IsSuccessStatus == true)
             {
-                Console.WriteLine(forecast.Response.Lat);
-                Console.WriteLine(forecast.Response.Lon);
-                Console.WriteLine(forecast.Response.Precipitation.Value);
-                Console.WriteLine(forecast.Response.Precipitation.Units);
+                Console.WriteLine("Latitude: " + forecast.Response.Lat);
+                Console.WriteLine("Longitude: " + forecast.Response.Lon);
+                Console.WriteLine("Precipitation: " + forecast.Response.Precipitation.Value);
+                Console.WriteLine("Precipitation unit: " + forecast.Response.Precipitation.Units);
             }
             else
             {
