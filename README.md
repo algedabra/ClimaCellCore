@@ -1,6 +1,6 @@
 # ClimaCell Core
 
-Some unofficial code to run a request against the ClimaCell API (api.climacell.co). This code is in alpha state, I'm a novice programmer and I'm new to C# and Github, so this code may not be considered as high-quality code. Feel free to contribute, fork or use this code on your own repository.
+Some unofficial code to run a request against the ClimaCell API (http://api.climacell.co). This code is in alpha state, I'm a novice programmer and I'm new to C# and Github, so this code may not be considered as high-quality code. Feel free to contribute, fork or use this code on your own repository.
 
 ## Contributing
 
